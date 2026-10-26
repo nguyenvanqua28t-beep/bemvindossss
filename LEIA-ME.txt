@@ -1,0 +1,21 @@
+SITE 50.822.122 DIEGO ARMANDO FAVERO
+
+Arquivos:
+- index.html: página principal
+- style.css: estilos personalizados
+- sobre.html: página Sobre
+- politica-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- assets/: imagens fornecidas
+
+Como visualizar:
+1. Extraia o ZIP mantendo a estrutura de pastas.
+2. Abra index.html no navegador.
+3. Bootstrap, Bootstrap Icons e Google Fonts são carregados por CDN, então alguns recursos exigem internet.
+
+Antes de publicar:
+- Confirme os dados cadastrais e a atividade econômica com os registros oficiais.
+- Confirme que possui direito de uso comercial das imagens enviadas.
+- Revise a Política de Privacidade de acordo com os cookies, analytics, tags/pixels e serviços realmente instalados. Se usar Google Ads/Google Tag, atualize o texto e configure consentimento quando aplicável.
+- A política e os termos são modelos iniciais, não aconselhamento jurídico.
+- Para melhor conformidade com anúncios, verifique se o destino do anúncio corresponde ao serviço anunciado e se as informações comerciais são verdadeiras.
